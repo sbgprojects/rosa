@@ -1,0 +1,160 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* margins */
+.lm-1{
+    margin: 1rem;
+}
+.lm-2{
+    margin: 2rem;
+}
+.lm-3{
+    margin: 3rem;
+}
+.lm-4{
+    margin: 4rem;
+}
+.lm-5{
+    margin: 5rem;
+}
+.lml-1{
+    margin: 1rem;
+}
+.lml-2{
+    margin: 2rem;
+}
+.lml-3{
+    margin: 3rem;
+}
+.lml-4{
+    margin: 4rem;
+}
+.lml-5{
+    margin: 5rem;
+}
+.lmr-1{
+    margin: 1rem;
+}
+.lmr-2{
+    margin: 2rem;
+}
+.lmr-3{
+    margin: 3rem;
+}
+.lmr-4{
+    margin: 4rem;
+}
+.lmr-5{
+    margin: 5rem;
+}
+.lmt-1{
+    margin: 1rem;
+}
+.lmt-2{
+    margin: 2rem;
+}
+.lmt-3{
+    margin: 3rem;
+}
+.lmt-4{
+    margin: 4rem;
+}
+.lmt-5{
+    margin: 5rem;
+}
+.lmb-1{
+    margin: 1rem;
+}
+.lmb-2{
+    margin: 2rem;
+}
+.lmb-3{
+    margin: 3rem;
+}
+.lmb-4{
+    margin: 4rem;
+}
+.lmb-5{
+    margin: 5rem;
+}
+
+/* padding */
+.lp-1{
+    margin: 1rem;
+}
+.lp-2{
+    margin: 2rem;
+}
+.lp-3{
+    margin: 3rem;
+}
+.lp-4{
+    margin: 4rem;
+}
+.lp-5{
+    margin: 5rem;
+}
+.lpl-1{
+    margin: 1rem;
+}
+.lpl-2{
+    margin: 2rem;
+}
+.lpl-3{
+    margin: 3rem;
+}
+.lpl-4{
+    margin: 4rem;
+}
+.lpl-5{
+    margin: 5rem;
+}
+.lpr-1{
+    margin: 1rem;
+}
+.lpr-2{
+    margin: 2rem;
+}
+.lpr-3{
+    margin: 3rem;
+}
+.lpr-4{
+    margin: 4rem;
+}
+.lpr-5{
+    margin: 5rem;
+}
+.lpt-1{
+    margin: 1rem;
+}
+.lpt-2{
+    margin: 2rem;
+}
+.lpt-3{
+    margin: 3rem;
+}
+.lpt-4{
+    margin: 4rem;
+}
+.lpt-5{
+    margin: 5rem;
+}
+.lpb-1{
+    margin: 1rem;
+}
+.lpb-2{
+    margin: 2rem;
+}
+.lpb-3{
+    margin: 3rem;
+}
+.lpb-4{
+    margin: 4rem;
+}
+.lpb-5{
+    margin: 5rem;
+}
